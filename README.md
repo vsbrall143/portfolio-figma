@@ -6,7 +6,7 @@
 
 ## Requirements
 
-- Recreate a [Figma.]( https://vsbrall143.github.io/portfolio-figma/) design.
+- Recreate a [Figma.]( https://www.figma.com/file/B734e4eF4gKrEsAmYZO173/Untitled?type=design&node-id=1-9&mode=design&t=SFUGXJXYrxvvDUQP-0/) design.
 - HTML5
 - Bootstrap 
 
