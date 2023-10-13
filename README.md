@@ -3,6 +3,7 @@
 
 > A portfolio website created from a Figma design using Bootstrap.
 
+![Course Completion certificate](https://github.com/vsbrall143/coursera/blob/main/certificate.png)
 
 ## Requirements
 
