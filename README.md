@@ -20,3 +20,6 @@
 
 Check **Live Demo** [here.]( https://vsbrall143.github.io/portfolio-figma/)
 
+
+![Course Completion certificate](https://raw.githubusercontent.com/vsbrall143/portfolio-figma/main/certify.png)
+
